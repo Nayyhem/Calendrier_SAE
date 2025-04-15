@@ -1,26 +1,18 @@
 # Calendrier_SAE
 
-## 📅 Application de calendrier dynamique en Java
+## 📅 Réalisation d'un calendrier en java
 
-Projet réalisé en groupe de 3 dans le cadre d'un besoin client : **génération dynamique d’une page HTML affichant un calendrier** à l’aide du langage **Java**.
+Projet réalisé en groupe dans le cadre d'un besoin client : **génération d’une page HTML affichant un calendrier** à l’aide du langage **Java**.
 
 ### 🎯 Objectif
-Développer une application répondant à un cahier des charges client permettant d’afficher un calendrier personnalisé au format HTML. L’interface HTML est générée dynamiquement à partir de la logique métier codée en Java.
+Développer un calendrier en java répondant à un cahier des charges permettant d’afficher le calendrier au format HTML.
 
 ### ✅ Fonctionnalités principales
-- Génération automatique d’une page HTML contenant un calendrier mensuel
-- Possibilité de personnalisation du mois, de l’année et du style
+- Génération automatique d’une page HTML contenant un calendrier
 - Gestion de la structure des jours et semaines
-- Architecture claire et modulaire
+- Architecture claire
 
 ### 🛠️ Technologies utilisées
-- Java
-- HTML (généré dynamiquement)
-- JUnit (tests unitaires)
-- Git (gestion de version)
+- Langage utilisé : Java, HTML
+- Logiciel : Intellij Idea, Webstorm
 
-### 📌 Bonnes pratiques respectées
-- Code commenté et lisible
-- Nommage explicite des classes, méthodes et variables
-- Tests et validation de l’application
-- Travail collaboratif via Git
